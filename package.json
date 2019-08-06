@@ -1,0 +1,19 @@
+{
+  "name": "nooks",
+  "version": "1.0.0",
+  "description": "Collection of sexy React Hooks ready to install with NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Giseokkang/nooks.git"
+  },
+  "author": "Giseok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Giseokkang/nooks/issues"
+  },
+  "homepage": "https://github.com/Giseokkang/nooks#readme"
+}
