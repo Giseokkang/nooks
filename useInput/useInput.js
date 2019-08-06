@@ -1,4 +1,4 @@
-const useInput = (initialValue, num) => {
+export const useInput = (initialValue, num) => {
   const [value, setValue] = useState(initialValue);
 
   const onChange = e => {
